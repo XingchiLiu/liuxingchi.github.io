@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Why so serious?<br>凡事不值得过分认真，然而..."
-sidebar-avatar: /img/avatar-philosophy      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-philosophy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
